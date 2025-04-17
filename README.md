@@ -56,7 +56,7 @@ The project displays a selection of characters with detailed descriptions and in
 
 Below is a screenshot of the project:
 
-![Project Screenshot](./src/images/screenshot.png)
+![Project Screenshot](src/imagens/screenshot.gif)
 
 ---
 
@@ -125,7 +125,7 @@ O projeto exibe uma seleção de personagens com descrições detalhadas e botõ
 
 Abaixo está uma captura de tela do projeto:
 
-![Captura de Tela do Projeto](./src/images/screenshot.png)
+![Captura de Tela do Projeto](src/imagens/screenshot.gif)
 
 ---
 
